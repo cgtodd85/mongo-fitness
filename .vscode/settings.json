@@ -3,8 +3,20 @@
         "[Sublime Material Theme - Dark]": {
             "tab.activeBackground": "#8edeec60"
         },
-        "activityBar.background": "#0F2F4F",
-        "titleBar.activeBackground": "#15426F",
-        "titleBar.activeForeground": "#F7FAFD"
-    }
+        "activityBar.background": "#0f2e4f",
+        "titleBar.activeBackground": "#071524",
+        "titleBar.activeForeground": "#e7e7e7",
+        "activityBar.activeBackground": "#0f2e4f",
+        "activityBar.activeBorder": "#bc246d",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#bc246d",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#071524",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#0f2e4f",
+        "titleBar.inactiveBackground": "#07152499",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#071524"
 }
