@@ -12,9 +12,6 @@ Research shows that a person will reach their fitness goals more quickly when th
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Development](#Development)
 - [Github Info](#github)
 - [Contact](#contact)
 - [License](#license)
